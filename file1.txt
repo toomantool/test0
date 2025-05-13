@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 testing file
 commit test
+=======
+untesting file
+
+>>>>>>> 1c7e606a7db40498986b5c0d3e1eb2d6bcd8e743
 456
 789.
 Add line
